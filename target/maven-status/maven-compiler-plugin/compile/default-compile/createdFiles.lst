@@ -1,0 +1,6 @@
+bean\LoginBean.class
+entidade\Perfil.class
+entidade\Funcionalidade.class
+entidade\Usuario.class
+bean\menuBean.class
+model\UserDAO.class
